@@ -1,2 +1,2 @@
 # NoahTV.github.io
-Anyhting
+Anything
